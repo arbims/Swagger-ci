@@ -19,8 +19,8 @@ This third-party plugin for CodeIgniter 4 allows automatic generation of Swagger
 
 public $psr4 = [
     APP_NAMESPACE => APPPATH, 
-    'Config'      => APPPATH . 'Config',
-    'SwaggerGenerator' => APPPATH . 'ThirdParty/SwaggerGenerator',
+   'Config'      => APPPATH . 'Config',
+   'Swagger' => APPPATH . 'ThirdParty/Swagger/src',
 ];
 ```
 
