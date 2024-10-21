@@ -18,6 +18,7 @@
     </style>
 </head>
 <body>
+    <img src="https://codeigniter.com/assets/icons/ci-logo.png" style="max-width: 40px;">
     <div id="swagger-ui"></div>
 
     <script src="/js/swagger-ui-bundle.js"></script>
